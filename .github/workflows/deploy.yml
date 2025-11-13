@@ -2,8 +2,8 @@ name: Deploy Cecil to GitHub Pages
 
 on:
   push:
-    branches:
-      - Archange187
+    branches : [ Archange187 ]
+
 
 permissions:
   contents: read
