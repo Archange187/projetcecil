@@ -1,0 +1,19 @@
+.photo-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.photo-profil {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid white;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.photo-profil:hover {
+  transform: scale(1.05);
+}

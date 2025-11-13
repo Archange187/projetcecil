@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:8000/xsl/atom.xsl" media="all"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>http://localhost:8000/section/</id>
+  <title>Site de Archange Nyondo - Section</title>
+  <subtitle><![CDATA[Site description.]]></subtitle>
+  <link href="http://localhost:8000/section/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:8000/section/" rel="alternate" type="text/html" />
+  <updated>2025-11-07T12:05:39+01:00</updated>
+  <author>
+    <name>Site de Archange Nyondo</name>
+    <uri>http://localhost:8000/</uri>
+  </author>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/section/a-propo-de-moi-suite/</id>
+    <title>A propo de moi suite</title>
+    <content type="html">
+      <![CDATA[<h1 id="a-propos-de-christien-migheri">À propos de Archange Nyondo</h1>
+<p>Je m’appelle <strong>Archange Nyondo</strong>, passionné par la <strong>technologie</strong>, le <strong>développement logiciel</strong> et la <strong>gestion de projets au service de l’Église</strong>.<br>
+Mon objectif est de créer des solutions numériques utiles qui facilitent la vie des communautés et encouragent l’innovation au service de la foi.</p>
+<p>💡 J’aime particulièrement travailler sur :</p>
+<ul>
+<li>Les projets de <strong>gestion d’églises</strong> et de <strong>systèmes d’information communautaires</strong></li>
+<li>Le développement d’applications <strong>C# / .NET</strong></li>
+<li>L’apprentissage et le partage des connaissances</li>
+</ul>
+<blockquote>
+<p>“La technologie n’est pas qu’un outil, c’est un moyen d’élever, d’aider et de connecter les gens.”</p>
+</blockquote>
+<h2 id="liens-utiles">Liens utiles</h2>
+<ul>
+<li><a href="https://github.com/migherichristien" rel="noopener noreferrer">Mon profil GitHub</a></li>
+<li><a href="https://migherichristien.github.io/MIGHERIChristien/" rel="noopener noreferrer">Mon site web officiel</a></li>
+<li><a href="/about/">Link to about page</a></li>
+<li><a href="/">Link to home page</a></li>
+</ul>]]>
+    </content>
+    <link href="http://localhost:8000/section/a-propo-de-moi-suite/" rel="alternate" type="text/html" />
+    <published>2025-11-07T12:05:39+01:00</published>
+    <updated>2025-11-07T12:05:39+01:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/section/competences/</id>
+    <title>competences</title>
+    <content type="html">
+      <![CDATA[<h1 id="mes-projets">Mes Projets</h1>
+<p>Bienvenue sur la page dédiée à mes projets 👨‍💻<br>
+Je m’appelle <strong>Archange Nyondo</strong> et je conçois des outils numériques utiles, notamment pour la <strong>gestion d’églises</strong> et la <strong>modernisation des communautés paroissiales</strong>.</p>
+<h2 id="rџЏ-pyoЏ-application-de-gestion-dvЂ-tm-G-c-glise">🏛️ Application de gestion d’église</h2>
+<p>Un logiciel développé en <strong>C# et Windows Forms</strong>, permettant de gérer :</p>
+<ul>
+<li>Les fidèles et leurs informations</li>
+<li>Les sacrements (baptême, mariage, etc.)</li>
+<li>Les messes, dons et activités</li>
+<li>Les prêtres et groupes paroissiaux  </li>
+</ul>
+<p>🎯 <strong>Objectif :</strong> simplifier la vie administrative des paroisses.</p>
+<h2 id="rџЊђ-site-personnel">🌐 Site personnel</h2>
+<p>Ce site hébergé sur <strong>GitHub Pages</strong> présente mes réalisations, mes valeurs et mes inspirations dans le domaine du numérique et de la foi.  </p>
+<p>📎 <a href="https://github.com/migherichristien" rel="noopener noreferrer">Visiter mon GitHub</a></p>
+<hr>
+<blockquote>
+<p>“Chaque ligne de code est une opportunité d’aider et de créer quelque chose qui compte.”</p>
+<h1 id="mon-parcours">Mon Parcours</h1>
+</blockquote>
+<p>Je suis <strong>Archange Nyondo</strong>, passionné de <strong>technologie</strong> et de <strong>développement logiciel</strong>.<br>
+Depuis plusieurs années, je m’intéresse particulièrement à l’intégration de la <strong>technique au service de l’Église</strong> et des <strong>valeurs humaines</strong>.</p>
+<h2 id="rџЋ-formation">🎓 Formation</h2>
+<ul>
+<li>Études en informatique et développement logiciel  </li>
+<li>Expérience en C#, .NET, gestion de base de données et conception d’applications</li>
+</ul>
+<h2 id="rџ-ј-expG-c-riences">💼 Expériences</h2>
+<ul>
+<li>Conception d’un système complet de gestion d’église catholique  </li>
+<li>Participation à des projets communautaires et associatifs  </li>
+<li>Contribution à des projets open-source sur GitHub</li>
+</ul>
+<h2 id="rџ-Ќ-objectif">🔍 Objectif</h2>
+<p>Allier <strong>foi, technologie et service</strong> pour créer des outils numériques qui facilitent la mission et la gestion des communautés.</p>
+<hr>
+<blockquote>
+<p>“La technologie peut être un instrument de foi quand elle est mise au service de l’humain.”</p>
+</blockquote>]]>
+    </content>
+    <link href="http://localhost:8000/section/competences/" rel="alternate" type="text/html" />
+    <published>2025-11-07T11:47:35+01:00</published>
+    <updated>2025-11-07T11:47:35+01:00</updated>
+  </entry>
+</feed>
