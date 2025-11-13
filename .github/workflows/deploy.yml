@@ -2,8 +2,7 @@ name: Deploy Cecil to GitHub Pages
 
 on:
   push:
-    branches : [ Archange187 ]
-
+    branches: [ Archange187 ]
 
 permissions:
   contents: read
@@ -14,7 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup PHP
@@ -26,12 +25,15 @@ jobs:
         run: curl -LOS https://cecil.app/cecil.phar
 
       - name: Build site
-        run: php cecil.phar build
+        run: php cecil.phar build --verbose
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: _site/
+          path: ./_site
 
   deploy:
     needs: build
@@ -42,4 +44,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
